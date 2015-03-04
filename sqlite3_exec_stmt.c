@@ -1,5 +1,13 @@
+/*
+
+Copyright (c) 2007-2015 Ing-Long Eric Kuo
+
+Distributed under the MIT License.
+http://opensource.org/licenses/MIT
+
+*/
+
 #include "sqlite3.h"
-// #include <ctype.h>
 #include <stdlib.h>
 
 /*
